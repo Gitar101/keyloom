@@ -1,0 +1,43 @@
+# Development and packaging
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+*.spec
+build/
+dist/
+release/
+third_party_licenses/
+
+# Local configuration, credentials, assistant memory, and diagnostics
+.env
+.env.*
+*.pem
+*.key
+.epoch/
+.opencode/
+memory/
+*.log
+verification*.json
+verification*.png
+publication-audit*.json
+
+# Personal media and generated binaries belong outside source history
+*.mp4
+*.mov
+*.png
+*.jpg
+*.jpeg
+*.lnk
+*.exe
+*.dll
+*.pyd
+*.zip
+
+# Deliberately public branding assets only; other media stays ignored.
+!assets/keyloom-16.png
+!assets/keyloom-32.png
+!assets/keyloom-256.png
+!assets/keyloom-512.png
+!docs/assets/keyloom-cover.png

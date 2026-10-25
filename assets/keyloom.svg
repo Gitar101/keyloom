@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" shape-rendering="crispEdges" style="color:#142539" role="img" aria-labelledby="title desc">
+  <title id="title">Keyloom</title>
+  <desc id="desc">Pixel-art monitor and keyboard sharing cyan, violet, and amber screen regions.</desc>
+  <path fill="currentColor" d="M3 2h10v1H3zM3 3h1v1H3zM12 3h1v1H12zM3 4h1v1H3zM12 4h1v1H12zM3 5h1v1H3zM12 5h1v1H12zM3 6h1v1H3zM12 6h1v1H12zM3 7h1v1H3zM12 7h1v1H12zM3 8h10v1H3zM7 9h2v1H7zM5 10h6v1H5zM2 11h12v1H2zM2 12h1v1H2zM6 12h1v1H6zM9 12h1v1H9zM13 12h1v1H13zM2 13h12v1H2z"/>
+  <path fill="#39D6E7" d="M4 3h3v1H4zM4 4h3v1H4zM4 5h3v1H4zM4 6h3v1H4zM4 7h3v1H4zM3 12h3v1H3z"/>
+  <path fill="#9A81F5" d="M7 3h2v1H7zM7 4h2v1H7zM7 5h2v1H7zM7 6h2v1H7zM7 7h2v1H7zM7 12h2v1H7z"/>
+  <path fill="#FFBC62" d="M9 3h3v1H9zM9 4h3v1H9zM9 5h3v1H9zM9 6h3v1H9zM9 7h3v1H9zM10 12h3v1H10z"/>
+</svg>
